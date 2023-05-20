@@ -1,6 +1,6 @@
 ---
 title: Ad Provider | AWS Event-Driven Serverless application
-summary: An example of using the in-built project page.
+summary: a service system for search advertisements that involves a publisher (such as Google) and advertisers competing for high positions on an ad ranking list
 tags:
   - All
 date: '2016-04-27T00:00:00Z'
@@ -12,11 +12,6 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
