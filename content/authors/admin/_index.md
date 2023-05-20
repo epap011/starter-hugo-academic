@@ -45,12 +45,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:papageorgiou.efthymis@protonmail.com
-  - icon: github
+  - icon: discord
     icon_pack: fab
-    link: https://github.com/epap011
+    link: https://discord.com/users/sutter_cane#9284
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/efthymis-pap/
+  - icon: mastodon
+    icon_pack: fab
+    link: https://fosstodon.org/@sutter_cane
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/epap011
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
