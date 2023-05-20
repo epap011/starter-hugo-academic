@@ -44,7 +44,7 @@ sections:
           company_url: 'https://www.forth.gr/en/home/'
           company_logo: ite 
           location: Heraklion
-          date_start: '2023-3-31'
+          date_start: '2023-03-31'
           date_end: ''
           description: I have a research project focused on the analysis and optimization of the Apache HTTP Server. The central objective is to develop a dynamic feedback controller with multiple inputs and multiple outputs (MIMO) to enhance the server's performance and responsiveness.
     design:
