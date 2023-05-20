@@ -11,22 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  # - block: features
-  #   content:
-  #     title: Skills
-  #     items:
-  #       - name: R
-  #         description: 90%
-  #         icon: r-project
-  #         icon_pack: fab
-  #       - name: Statistics
-  #         description: 100%
-  #         icon: chart-line
-  #         icon_pack: fas
-  #       - name: Photography
-  #         description: 10%
-  #         icon: camera-retro
-  #         icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -39,23 +23,10 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        # - title: CEO
-        #   company: GenCoin
-        #   company_url: ''
-        #   company_logo: org-gc
-        #   location: California
-        #   date_start: '2021-01-01'
-        #   date_end: ''
-        #   description: |2-
-        #       Responsibilities include:
-
-        #       * Analysing
-        #       * Modelling
-        #       * Deploying
         - title: Undergraduate Research Fellow
           company: Foundation for Research and Technology - Hellas (FORTH)
           company_url: 'https://www.forth.gr/en/home/'
-          company_logo: org-x
+          company_logo: ite
           location: Heraklion
           date_start: '2023-3-31'
           date_end: 'present'
