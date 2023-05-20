@@ -42,7 +42,7 @@ sections:
         - title: Undergraduate Research Fellow
           company: Foundation for Research and Technology - Hellas (FORTH)
           company_url: 'https://www.forth.gr/en/home/'
-          company_logo: ite
+          company_logo: ite.png
           location: Heraklion
           date_start: '2023-3-31'
           date_end: ''
