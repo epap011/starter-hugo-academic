@@ -74,5 +74,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Efthymis Papageorgiou is a motivated computer science student at the University of Crete, as well as an undergraduate research assistant at FORTH-ITE (Foundation for Research and Technology - Hellas). His primary focus lies in performance engineering, cloud computing and distributed computing.He is driven by the desire to solve real-world problems through innovative solutions.
 {style="text-align: justify;"}
