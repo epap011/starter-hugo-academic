@@ -39,14 +39,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Undergraduate Research Fellow
-          company: Foundation for Research and Technology - Hellas (FORTH)
-          company_url: 'https://www.forth.gr/en/home/'
-          company_logo: 
-          location: Heraklion
-          date_start: '2023-3-31'
-          date_end: ''
-          description: I have a research project focused on the analysis and optimization of the Apache HTTP Server. The central objective is to develop a dynamic feedback controller with multiple inputs and multiple outputs (MIMO) to enhance the server's performance and responsiveness.
+        # - title: Undergraduate Research Fellow
+        #   company: Foundation for Research and Technology - Hellas (FORTH)
+        #   company_url: 'https://www.forth.gr/en/home/'
+        #   company_logo: 
+        #   location: Heraklion
+        #   date_start: '2023-3-31'
+        #   date_end: ''
+        #   description: I have a research project focused on the analysis and optimization of the Apache HTTP Server. The central objective is to develop a dynamic feedback controller with multiple inputs and multiple outputs (MIMO) to enhance the server's performance and responsiveness.
     design:
       columns: '2'
   - block: accomplishments
