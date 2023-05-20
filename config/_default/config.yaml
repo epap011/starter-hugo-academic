@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: epap011 net # Website name
-baseURL: 'https://efthymis.papg.net/' # Website URL
+baseURL: 'https://efthymis.papageorgiou.net/' # Website URL
 
 ############################
 ## LANGUAGE
