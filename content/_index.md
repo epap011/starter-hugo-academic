@@ -39,7 +39,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Undergraduate fellow Researcher
+        - title: Undergraduate Research Fellow
           company: Foundation for Research and Technology - Hellas (FORTH)
           company_url: 'https://www.forth.gr/en/home/'
           company_logo: ite 
