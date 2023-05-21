@@ -68,5 +68,5 @@ email: ''
 highlight_name: true
 ---
 
-Efthymis Papageorgiou is a motivated computer science student at the University of Crete, as well as an undergraduate fellow researcher at FORTH-ITE (Foundation for Research and Technology - Hellas). His primary focus lies in performance engineering, cloud computing and distributed computing.He is driven by the desire to solve real-world problems through innovative solutions.
+Efthymis Papageorgiou is a motivated computer science student at the University of Crete, as well as an undergraduate research fellow at FORTH-ITE (Foundation for Research and Technology - Hellas). His primary focus lies in performance engineering, cloud computing and distributed computing.He is driven by the desire to solve real-world problems through innovative solutions.
 {style="text-align: justify;"}
