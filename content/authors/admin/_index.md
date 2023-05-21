@@ -45,9 +45,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:papageorgiou.efthymis@protonmail.com
-  - icon: discord
-    icon_pack: fab
-    link: https://discord.com/users/sutter_cane#9284
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/efthymis-pap/
