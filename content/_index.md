@@ -174,45 +174,45 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
-      email:
-      phone:
-      appointment_url:
-      address:
-        street:
-        city: Heraklion
-        region:
-        postcode:
-        country: Greece States
-        country_code: GR
-      directions:
-      office_hours:
-      contact_links:
-        - icon: envelope
-          icon_pack: fas
-          name: Email Me
-          link: mailto:papageorgiou.efthymis@protonmail.com
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link:
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: Contact
+  #     subtitle:
+  #     text: |-
+  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+  #     # Contact (add or remove contact options as necessary)
+  #     email:
+  #     phone:
+  #     appointment_url:
+  #     address:
+  #       street:
+  #       city: Heraklion
+  #       region:
+  #       postcode:
+  #       country: Greece States
+  #       country_code: GR
+  #     directions:
+  #     office_hours:
+  #     contact_links:
+  #       - icon: envelope
+  #         icon_pack: fas
+  #         name: Email Me
+  #         link: mailto:papageorgiou.efthymis@protonmail.com
+  #       - icon: skype
+  #         icon_pack: fab
+  #         name: Skype Me
+  #         link:
+  #     # Automatically link email and phone or display as text?
+  #     autolink: true
+  #     # Email form provider
+  #     form:
+  #       provider: netlify
+  #       formspree:
+  #         id:
+  #       netlify:
+  #         # Enable CAPTCHA challenge to reduce spam?
+  #         captcha: false
+  #   design:
+  #     columns: '2'
 ---
