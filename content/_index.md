@@ -64,7 +64,7 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
-          date_start: '2023-03-31'
+          date_start: '2023-04-01'
           description: ''
           organization: Foundation for Research and Technology-Hellas (FORTH)
           organization_url: https://www.forth.gr/en/home/
