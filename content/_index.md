@@ -42,9 +42,9 @@ sections:
         - title: Undergraduate Research Fellow
           company: Foundation for Research and Technology - Hellas (FORTH)
           company_url: 'https://www.forth.gr/en/home/'
-          company_logo: ite 
+          company_logo: ite Undergraduate
           location: Heraklion
-          date_start: '2023-03-31'
+          date_start: '2023-04-01'
           date_end: ''
           description: I have a research project focused on the analysis and optimization of the Apache HTTP Server. The central objective is to develop a dynamic feedback controller with multiple inputs and multiple outputs (MIMO) to enhance the server's performance and responsiveness.
     design:
