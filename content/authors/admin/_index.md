@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Computer Science student
+role: Graduate Computer Science student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,17 +22,20 @@ organizations:
     url: https://en.uoc.gr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cloud computing, distributed copmuting and performance engineering.
+bio: My research interests include performance engineering, cloud computing and distributed copmuting.
 
 # Interests to show in About widget
 interests:
+  - Performance Engineering
   - Cloud Computing
   - Distributed Computing
-  - Performance Engineering
 
 # Education to show in About widget
 education:
   courses:
+    - course: Msc in Computer Science
+      institution: University of Crete
+      year: 2025
     - course: Bsc in Computer Science
       institution: University of Crete
       year: 2023
