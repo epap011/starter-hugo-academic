@@ -22,13 +22,13 @@ organizations:
     url: https://en.uoc.gr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include performance engineering, cloud computing and distributed copmuting.
+bio: My research interests include performance engineering, cloud computing and data engineering.
 
 # Interests to show in About widget
 interests:
   - Performance Engineering
-  - Cloud Computing
-  - Distributed Computing
+  - Cloud Enginering
+  - Data Engineering
 
 # Education to show in About widget
 education:
@@ -71,5 +71,5 @@ email: ''
 highlight_name: true
 ---
 
-Efthymis Papageorgiou is a motivated computer science student at the University of Crete, as well as an undergraduate research fellow at FORTH-ITE (Foundation for Research and Technology - Hellas). His primary focus lies in performance engineering, cloud computing and distributed computing.He is driven by the desire to solve real-world problems through innovative solutions.
+Efthymis Papageorgiou is a dedicated computer science student at the University of Crete, as well as an graduate research fellow at FORTH-ITE (Foundation for Research and Technology - Hellas). His primary focus lies in performance engineering, cloud engineering and data engineering.He is driven by the desire to solve real-world problems through innovative solutions.
 {style="text-align: justify;"}

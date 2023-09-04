@@ -46,7 +46,7 @@ sections:
           location: Heraklion
           date_start: '2023-04-01'
           date_end: ''
-          description: I have a research project focused on the analysis and optimization of the Apache HTTP Server. The central objective is to develop a dynamic feedback controller with multiple inputs and multiple outputs (MIMO) to enhance the server's performance and responsiveness.
+          description: My research revolves around the Apache HTTP Server, with a primary focus on comprehending its  architecture. By uderstanding this architecture, i aim to gain insights into the server's adaptivity. Throughout my experimentation with various modules, i have come to recognize the vital role of adaptivity. It serves as a critical component in the process of system identification, laying the groundwork for the application of a MIMO (Multiple-Input Multiple-Output) dynamic feedback controller, ultimately contributing to the server's enhanced performance and responsiveness.
     design:
       columns: '2'
   - block: accomplishments
