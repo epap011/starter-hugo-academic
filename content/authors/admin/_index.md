@@ -27,7 +27,7 @@ bio: My research interests include performance engineering, cloud computing and 
 # Interests to show in About widget
 interests:
   - Performance Engineering
-  - Cloud Enginering
+  - Cloud Engineering
   - Data Engineering
 
 # Education to show in About widget
